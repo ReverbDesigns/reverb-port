@@ -119,18 +119,7 @@ class Contact extends Component{
                 {/* End Contact Map  */}
                 
 
-                {/* Start Brand Area */}
-                <div className="rn-brand-area brand-separation bg_color--5 ptb--120">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-12">
-                                <BrandTwo />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {/* End Brand Area */}
-
+             
                 {/* Start Back To Top */}
                 <div className="backto-top">
                     <ScrollToTop showUnder={160}>
