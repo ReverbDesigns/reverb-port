@@ -7,7 +7,7 @@ import Header from "../component/header/HeaderFour";
 import TabThree from "../elements/tab/TabThree";
 import Helmet from "../component/common/Helmet";
 import TabTwo from "../elements/tab/TabTwo";
-import PortfolioLanding from './PortfolioLanding';
+
 import CreativePortfolio from './CreativePortfolio';
 
 const SlideList = [
@@ -64,7 +64,7 @@ const DesignerPortfolio = () => {
             {/* Start Designer Portfolio  */}
             <CreativePortfolio/>
             {/* End Designer Portfolio  */}
-            <PortfolioLanding/>
+        
             {/* Start Footer Style  */}
             <FooterTwo />
             {/* End Footer Style  */}

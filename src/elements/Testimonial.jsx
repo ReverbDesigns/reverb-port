@@ -10,85 +10,85 @@ class Testimonial extends Component{
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Aklima The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Aklima </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
 
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Fatima Asrafy standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Fatima Asrafy </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Jannat Tumpa The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Jannat Tumpa </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                        <p>Standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Johns Due </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
-                                </div>
-                            </TabPanel>
-                            <TabPanel>
-                                <div className="rn-testimonial-content text-center">
-                                    <div className="inner">
-                                        <p>John Doe The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>John Doe </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
 
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Amar Orthi </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>Fatima Ma </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
 
                             <TabPanel>
                                 <div className="rn-testimonial-content text-center">
                                     <div className="inner">
-                                        <p>Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
-                                    </div>
-                                    <div className="author-info">
-                                        <h6><span>JON CUMMINS </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
-                                    </div>
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
+                                </div>
+                            </TabPanel>
+                            <TabPanel>
+                                <div className="rn-testimonial-content text-center">
+                                    <div className="inner">
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
+                                </div>
+                            </TabPanel>
+
+                            <TabPanel>
+                                <div className="rn-testimonial-content text-center">
+                                    <div className="inner">
+                                    <p>not right now</p>
+                            </div>
+                            <div className="author-info">
+                                <h6><span>author </span> - title, co</h6>
+                            </div>
                                 </div>
                             </TabPanel>
                             

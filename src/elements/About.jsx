@@ -3,7 +3,6 @@ import PageHelmet from "../component/common/Helmet";
 import Breadcrumb2 from "../elements/common/Breadcrumb2";
 import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
-import BrandTwo from "../elements/BrandTwo";
 import { FaFacebookF , FaLinkedinIn , FaTwitter } from "react-icons/fa";
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
