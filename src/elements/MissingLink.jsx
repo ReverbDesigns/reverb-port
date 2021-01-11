@@ -62,7 +62,7 @@ class MissingLink extends Component{
                                         <div className="portfolio-view-list d-flex flex-wrap">
                                             <div className="port-view">
                                                 <span>Language</span>
-                                                <h4 style={{paddingTop: 20 + 'px'}}>Jaavascript</h4>
+                                                <h4 style={{paddingTop: 20 + 'px'}}>Javascript</h4>
                                             </div>
 
                                             <div className="port-view">
