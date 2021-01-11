@@ -60,7 +60,7 @@ class Root extends Component{
 
                     {/* Element Layot */}
                    
-
+                    <Route exact path={`${process.env.PUBLIC_URL}/map`} component={GoogleMap}/>
                     <Route exact path={`${process.env.PUBLIC_URL}/contact`} component={Contact}/>
                     <Route exact path={`${process.env.PUBLIC_URL}/about`} component={About}/>
                     <Route exact path={`${process.env.PUBLIC_URL}/portfolio-details`} component={PortfolioDetails}/>

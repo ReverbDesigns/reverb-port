@@ -47,13 +47,32 @@ class SmallBusiness extends Component{
                 </div>
                 {/* End Breadcrump Area */}
 
-                {/* Start Portfolio Details */}
-                <div className="rn-portfolio-details ptb--120 bg_color--1">
+             {/* Start Portfolio Details */}
+             <div className="rn-portfolio-details ptb--120 bg_color--1">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="portfolio-details">
                                     <div className="inner">
+                                        <h2>Inuitive UX <br></br>for any size screen</h2>
+                                        <p className="subtitle"> Creating a User Interface that dynamically adjust to be both engaging and simple to navigate in any configuration or size is a hallmark of what I believe quality web design is about.</p>
+                                        <div className="portfolio-view-list d-flex flex-wrap">
+                                            <div className="port-view">
+                                                <span>Language</span>
+                                                <h4 style={{paddingTop: 20 + 'px'}}>CSS Media Queries</h4>
+                                            </div>
+
+                                            <div className="port-view">
+                                                <span>Project Types</span>
+                                                <h4 style={{paddingTop: 20 + 'px'}}>Responsive Design</h4>
+                                            </div>
+
+                                            <div className="port-view">
+                                                <span>Small Business Website</span>
+                                                <h4><a className="rn-button-style--2" href="http://bodyslopesmassage.com/"><span>View Project</span></a></h4>
+                                            </div>
+                                        </div>
+                                        
                                        
                                        
 

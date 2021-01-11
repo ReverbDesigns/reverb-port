@@ -7,14 +7,14 @@ import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
 import Footer from "../component/footer/Footer";
-
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
+import marker from "../../public/assets/images/logo/marker.png";
+const AnyReactComponent = ({ img }) => <img src={marker}/>;
 
 class Contact extends Component{
     static defaultProps = {
         center: {
-            lat: 59.95,
-            lng: 30.33
+            lat: 37.920810,
+            lng: -122.353805
         },
         zoom: 11
     };
@@ -104,13 +104,14 @@ class Contact extends Component{
                 <div className="rn-contact-map-area position-relative">
                     <div style={{ height: '650px', width: '100%' }}>
                         <GoogleMapReact
+                          bootstrapURLKeys={{ key: 'AIzaSyBkf8t-ZHjGVhij5XVkUj32k1qztkpv3Ds' }}
                         defaultCenter={this.props.center}
                         defaultZoom={this.props.zoom}
                         >
                         <AnyReactComponent
-                            lat={37.920810}
+                            lat={37.960810}
                             lng={-122.353805}
-                            text="My Marker"
+                            object={marker} alt="Marker"
                         />
                         </GoogleMapReact>
                     </div>

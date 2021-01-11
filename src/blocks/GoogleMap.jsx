@@ -44,7 +44,7 @@ class GoogleMap extends Component {
                                     <div className="rn-contact-map-area position-relative">
                                         <div style={{ height: '550px', width: '100%' }}>
                                             <GoogleMapReact
-                                            bootstrapURLKeys={{ key: 'AIzaSyA1nS3lTvvThnx-3T3CKtV-NFRrlkEUGGY' }}
+                                            bootstrapURLKeys={{ key: 'AIzaSyBkf8t-ZHjGVhij5XVkUj32k1qztkpv3Ds' }}
                                             defaultCenter={this.props.center}
                                             defaultZoom={this.props.zoom}
                                             >
@@ -158,6 +158,7 @@ class GoogleMap extends Component {
                                     <div className="rn-contact-map-area position-relative">
                                         <div style={{ height: '550px', width: '100%' }}>
                                             <GoogleMapReact
+                                            bootstrapURLKeys={{ key: 'AIzaSyBkf8t-ZHjGVhij5XVkUj32k1qztkpv3Ds' }}
                                             defaultCenter={this.props.center}
                                             defaultZoom={this.props.zoom}
                                             >
